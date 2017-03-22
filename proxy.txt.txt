@@ -1,0 +1,2 @@
+Acquire::http::proxy "http://corp\\<user>:<pwd>@inpunwbs02-wcg.corp.capgemini.com:8080";
+Acquire::https::proxy "http://corp\\<user>:<pwd>@inpunwbs02-wcg.corp.capgemini.com:8080";
